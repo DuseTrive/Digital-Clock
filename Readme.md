@@ -25,6 +25,8 @@ This project is a digital clock that displays the current time, date, and includ
 2. Open the `index.html` file in a web browser.
 3. The clock should display the current date and time automatically.
 
+### Screenshots:
+![Alt text](image.png)
 
 ### Customization:
 
